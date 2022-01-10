@@ -34,7 +34,7 @@
 
 ## About The Project
 
-Here are some of the React and React Native compenents, hooks that i have used in my projects. I will be adding new components as we go and will also add proper documentation as well.
+Here are some of the React and React Native component, hooks that i have used in my projects. I will be adding new components as we go and will also add proper documentation as well.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
